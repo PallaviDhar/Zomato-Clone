@@ -1,5 +1,5 @@
 # Zomato-Clone
-It is related to HTML, PHP, CSS.
+It is a file to related to HTML, PHP, CSS.
 
 
 Screen Shots
