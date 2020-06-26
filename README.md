@@ -1,2 +1,5 @@
 # Zomato-Clone
-it is related to HTML, PHP, CSS
+It is related to HTML, PHP, CSS.
+
+
+Screen Shots
